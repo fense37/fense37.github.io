@@ -2,7 +2,7 @@
 title: "Subsurface Eddies Transited from Surface Eddies over Non-parallel Background Isopycnals"
 collection: publications
 category: article
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/wang2026a
 excerpt: ''
 date: 2026-03-17
 venue: 'Journal of Physical Oceanography'
