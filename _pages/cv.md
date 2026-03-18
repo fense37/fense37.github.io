@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physical Oceanography, Institute of Oceanology, Chinese Academy of Sciences, 2028 (expected)
+* B.S. in Marine Science, Zhejiang University, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
+* Spring 2025: vice-captain of field observation in South China Sea
+  * IOCAS
+  * Duties includes: turbulence monitor for 24/7 using the VMP-500 Turbulence Profiler
   * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analysis
+* Ocean Model
+  * MITgcm
+  * ROMS
+  * ...
+* 
 
 Publications
 ======
