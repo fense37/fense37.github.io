@@ -21,13 +21,13 @@ redirect_from:
 
 ## Research Interest
 
-**Geophysical Fluid Dynamics**
+* **Geophysical Fluid Dynamics**
 
-**Quasi-geostrophic Dynamics**
+* **Quasi-geostrophic Dynamics**
 
-**Mesoscale Dynamics**
+* **Mesoscale Dynamics**
 
-**Submesoscale Dynamics**
+* **Submesoscale Dynamics**
 
-**Small-scale Dynamics**
+* **Small-scale Dynamics**
 
