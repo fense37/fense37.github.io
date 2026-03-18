@@ -23,7 +23,7 @@ repository               : "fense37/fense37.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Zhuoyue Wang"
   pronouns         : "he/him"  
   bio              : "An amateur of Physical Oceanography"
