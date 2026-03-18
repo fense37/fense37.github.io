@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D in Physical Oceanography, Institute of Oceanology, Chinese Academy of Sciences (IOCAS) 
+**Ph.D in Physical Oceanography, Institute of Oceanology, Chinese Academy of Sciences (IOCAS)**
 
 
 **"The great Architect seems to be a mathematician."**
                                         **-- J.H.Jeans**
 
-**IOCAS** 
+### **IOCAS** 
 
-**Guzhenkou Campus: No. 88 Haijun Road**
+### **Guzhenkou Campus: No. 88 Haijun Road**
 
-**Qingdao, Shandong, China**
+### **Qingdao, Shandong, China**
 
 
